@@ -1,0 +1,11 @@
+{
+  "name": "eduford-university",
+  "version": "1.0.0",
+  "description": "Eduford University is a simple web application that allows students to enroll in courses, view their course schedule, and track their academic progress. This project is built using HTML, CSS, and JavaScript for the front-end, and Node.js for the back-end.",
+  "main": "ScrollToTop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
